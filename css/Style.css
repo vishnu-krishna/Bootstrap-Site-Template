@@ -1,0 +1,221 @@
+/* Navigation Bar*/
+
+.navbar {
+    background-color: #242424;
+    border-bottom: 1px solid white;
+    font-family: 'Lato', sans-serif;
+}
+
+p h1 {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.navbar a {
+    color: #ccc !important;
+}
+
+.navbar a:hover {
+    color: #ffffff !important;
+    background-color: #646464 !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 150%;
+}
+
+
+/* Navigation Bar*/
+
+
+/* Header Bar*/
+
+.header {
+    padding: 140px 0 60px 0;
+    background: url(../img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    border-bottom: 2px solid #c9c9c9;
+}
+
+.header h1 {
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 500%;
+}
+
+.header p {
+    color: white;
+    font-size: 110%;
+}
+
+.header .btn {
+    padding: 5px 50px 5px 50px;
+    border-radius: 0;
+}
+
+
+/* Header Bar*/
+
+
+/* About Bar*/
+
+.about {
+    padding: 100px 0 100px;
+    text-align: center;
+}
+
+.about h1 {
+    font-size: 1.8em;
+    color: #337ab7;
+    padding: 0 0 25px;
+}
+
+.about p {
+    padding-bottom: 25px;
+}
+
+
+/* About Bar*/
+
+
+/* Features Bar*/
+
+.features {
+    background-color: #337ab7;
+    text-align: center;
+    color: white;
+    padding: 90px 0 90px;
+}
+
+.features h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.features img {
+    padding: 15px 0 35px;
+}
+
+
+/* Features Bar*/
+
+
+/* Press Bar*/
+
+.press {
+    padding: 0px 0 90px;
+    text-align: center;
+}
+
+.press h1 {
+    font-size: 1.8em;
+    padding-bottom: 25px;
+    color: #337ab7;
+}
+
+.press .press-logo li img {
+    opacity: 0.5;
+    padding-bottom: 25px;
+    transition: opacity 0.3ss;
+}
+
+.press .press-logo li img:hover {
+    opacity: 1;
+}
+
+
+/* Press Bar*/
+
+
+/* Reviews Bar*/
+
+.reviews {
+    padding: 90px 0 90px;
+    text-align: center
+}
+
+.reviews h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+    color: #337ab7;
+}
+
+.reviews p {
+    padding-bottom: 35px;
+}
+
+
+/* Reviews Bar*/
+
+
+/* Buy Bar*/
+
+.buy {
+    padding: 100px 0 100px;
+    background-color: #1c3f5c;
+    color: white;
+    text-align: center;
+}
+
+.buy h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.buy button {
+    background: transparent;
+    border: none;
+    padding-top: 25px;
+}
+
+
+/* Buy Bar*/
+
+
+/* Conact Bar*/
+
+.contact {
+    text-align: center;
+    padding: 100px 0 100px;
+}
+
+.contact h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.contact .fa {
+    color: #1c3f5c;
+    padding: 20px 10px 40px;
+}
+
+.contact li {
+    padding-top: 10px;
+}
+
+
+/* Footer Bar*/
+
+.footer {
+    background-color: #242424;
+    color: white;
+    padding: 30px 0 30px;
+}
+
+.footer h1 {
+    font-family: 'lato', sans-serif;
+    font-size: 1.5em;
+}
+
+.footer p {
+    font-size: 0.9em;
+    color: #f2f2f2;
+}
+
+.footer a {
+    color: #f2f2f2;
+}
+
+
+/* Contact Bar*/
